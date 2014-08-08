@@ -1,0 +1,5 @@
+To generate a junk file, simply click on the 'Generate Junk File' button. You will then be prompted to select the desired size of the file to generate. Note that you can select the units of your entered number by changing the combobox selection on the right hand side. (The size of the generated file in bytes is displayed underneath your entered amount).
+
+Once you have entered your desired file size and clicked on the 'OK' button you will be asked to select a save name and location for your generated file. Once selected, the application will then automatically generate your junk file.
+
+-- Last Updated: 08/08/2007 --
